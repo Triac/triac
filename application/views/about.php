@@ -13,6 +13,7 @@
     <![endif]-->
   </head>
   <body>
+    <div class="well well-sm"><p>Page rendered in ({elapsed_time}) secs.</p></div>
     <h1>Hello World!</h1>
 <div class="jumbotron">
 	<p>hello this is a bootstrap</p>
