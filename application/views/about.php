@@ -15,6 +15,10 @@
   <body>
     
     <div class="alert alert-info"><h1>Hello World!</h1></div>
+    <div class="alert alert-danger alert-dismissable">
+  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+  <strong>Warning!</strong> Best check yo self, you're not looking too good.
+</div>
 <div class="jumbotron jumbotron-sm">
 	<p>hello this is a bootstrap</p>
   <p>this is added by musaddik</p>
