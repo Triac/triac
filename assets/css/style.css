@@ -1,0 +1,11 @@
+.panel-heading{
+	/*background-color: #F5F5F5;*/
+background-color: #5BC0DE;
+
+}
+.panel{
+	 border: 1px solid #DDDDDD;
+}
+.navbar-brand{
+	font-size: 1.4em;
+}
