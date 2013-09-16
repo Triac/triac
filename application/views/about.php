@@ -13,12 +13,13 @@
     <![endif]-->
   </head>
   <body>
-    <div class="well well-sm"><p>Page rendered in ({elapsed_time}) secs.</p></div>
-    <h1>Hello World!</h1>
-<div class="jumbotron">
+    
+    <div class="alert alert-info"><h1>Hello World!</h1></div>
+<div class="jumbotron jumbotron-sm">
 	<p>hello this is a bootstrap</p>
   <p>this is added by musaddik</p>
 </div>
+<div class="alert alert-success"><p>Page rendered in ({elapsed_time}) secs.</p></div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
