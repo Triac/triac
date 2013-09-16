@@ -8,41 +8,27 @@
 	</div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="container">
 	<div class="row">
 		<div class="col-md-3 a">
 			<h3><a href=""> %500 games build</a></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, obcaecati amet cumque placeat mollitia illo esse nemo nobis nulla enim!</p>
-		<a href="" class="btn btn-default">Read More</a>
+		<a href="" class="btn btn-primary">Read More</a>
 		</div>
 			<div class="col-md-3 ">
 			<h3><a href=""> %500 games build</a></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, obcaecati amet cumque placeat mollitia illo esse nemo nobis nulla enim!</p>
-		<a href="" class="btn btn-default">Read More</a>
+		<a href="" class="btn btn-primary">Read More</a>
 		</div>
 			<div class=" col-md-3 a">
 			<h3><a href=""> %500 games build</a></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, obcaecati amet cumque placeat mollitia illo esse nemo nobis nulla enim!</p>
-		<a href="" class="btn btn-default">Read More</a>
+		<a href="" class="btn btn-primary">Read More</a>
 		</div>
 			<div class=" col-md-3 ">
 			<h3><a href=""> %500 games build</a></h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, obcaecati amet cumque placeat mollitia illo esse nemo nobis nulla enim!</p>
-		<a href="" class="btn btn-default">Read More</a>
+		<a href="" class="btn btn-primary">Read More</a>
 		</div>
 
 
