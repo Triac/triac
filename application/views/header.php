@@ -2,6 +2,11 @@
 <html>
   <head>
 <title>Triac Solutions</title>
+<meta name="author" content=" Abdul Arbaaz and Ansari Musaddik">
+<meta name="description" content="Web designing,web developer,">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript,PHP,CSS3,Magent0">
+
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="<?=asset_url()?>css/bootstrap.min.css" rel="stylesheet" media="screen">
